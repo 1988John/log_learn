@@ -1,4 +1,4 @@
-package com.foo.web.domain;
+package com.logLearn.web.domain;
 
 import java.io.Serializable;
 
