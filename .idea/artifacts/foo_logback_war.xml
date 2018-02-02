@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="foo-logback:war">
+    <output-path>$PROJECT_DIR$/foo-logback/target</output-path>
+    <root id="archive" name="foo-logback.war">
+      <element id="artifact" artifact-name="foo-logback:war exploded" />
+    </root>
+  </artifact>
+</component>
